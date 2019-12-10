@@ -8,7 +8,8 @@ in-memory data.
 
 ## Rules
 The test application can be written using any language you believe to be pertinent to the position you are applying for.
-You are free to use any 
+You are free to use any libraries that aid the creation of the application, but be conscious that the purpose of this
+exercise is to demonstrate your abilities.
  
  1) All dependent libraries must be publicly available. 
  1) Clear and concise instructions for how to build and run the application should be included within the code, e.g. `README.md`
