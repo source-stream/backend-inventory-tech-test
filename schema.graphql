@@ -29,8 +29,8 @@ type Agreement{
     contractStartDate: String
     contractEndDate: String
     deposit: Float
-	tenant: Tenant!
-	property: Property!
+    tenant: Tenant!
+    property: Property!
     inventory: Inventory!
 }
 
