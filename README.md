@@ -37,8 +37,7 @@ The inventory property within the agreements represents a score from 1 to 5 for 
 being very poor, and 5 being excellent.
 
 There should be no tricks in this data, if there is a problem mapping it to the GraphQL schema, please let me know at
-[declan.newman@sourcestream.co.uk](mailto:declan.newman@sourcestream.co.uk?subject=Inventory GraphQL Explorer) so we 
-can rectify it.
+[declan.newman@sourcestream.co.uk](mailto:declan.newman@sourcestream.co.uk) so we can rectify it.
 
 ## Summary
 The aim of this test is to understand your coding style, skills and approach to solving problems. We understand that you
