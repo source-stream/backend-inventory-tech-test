@@ -13,6 +13,7 @@ type Property{
 }
 
 type Inventory{
+    agreementId: ID!
     wallsAndCeilings: Int!
     floorCoverings: Int!
     windows: Int!
@@ -37,7 +38,7 @@ type Agreement{
 type Query{
     getInventories: [Inventory]
     getInventory(
-        id: ID!
+        agreementId: ID!
     ): Inventory
 }
 schema{
